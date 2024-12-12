@@ -1,6 +1,7 @@
 gost - GO Simple Tunnel
 ======
-
+必须中转2次！！！  国内或外中转机（加密） - 国外中转机（解密） -  落地机
+======
 ### GO语言实现的安全隧道
 
 [![GoDoc](https://godoc.org/github.com/ginuerzh/gost?status.svg)](https://godoc.org/github.com/ginuerzh/gost)
